@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: https://library.okstate.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /demo
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: #https://github.com/CollectionBuilder/collectionbuilder-csv
 
 ##########
 # SITE SETTINGS
@@ -29,10 +29,10 @@ keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Oklahoma State University Library"
+organization-link: https://library.okstate.edu
+organization-logo-banner: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
+organization-logo-nav: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
 
 ##########
 # COLLECTION SETTINGS
