@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://library.okstate.edu
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /demo
 # location of code, the full url to your github repository
@@ -23,7 +23,7 @@ title: Zarrow Collection
 tagline: Oklahoma State University Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Description will display here."
+description: "Edmon Low Library at Oklahoma State University is home to the Maxine and Jack Zarrow Collection. The Maxine and Jack Zarrow Collection includes over 500 artworks from around the globe. Art collectors, students, and scholars utilize this public online resource to explore artists, their backgrounds, their careers, and their creations. Links to additional resources are provided for more details."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: oklahoma;history;native america
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -31,8 +31,8 @@ author: CollectionBuilder
 # Organization branding
 organization-name: "Oklahoma State University Library"
 organization-link: https://library.okstate.edu
-organization-logo-banner: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
-organization-logo-nav: https://brand.okstate.edu/site-files/images/brand-guide/osu-nomenclature.png
+organization-logo-banner: objects/zarrow-web-banner.png
+organization-logo-nav: objects/zarrow-web-banner-nobg.png
 
 ##########
 # COLLECTION SETTINGS
