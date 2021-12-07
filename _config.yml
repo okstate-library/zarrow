@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: https://zarrow.library.okstate.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo
+baseurl: 
 # location of code, the full url to your github repository
 source-code: #https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -27,7 +27,7 @@ description: "Edmon Low Library at Oklahoma State University is home to the Maxi
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: oklahoma;history;native america
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Oklahoma State University Lirary
 # Organization branding #if we choose to activate these, uncomment below AND uncomment lines in collection-banner.html in the include file
 #organization-name:
 #organization-link: 

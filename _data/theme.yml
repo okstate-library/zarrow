@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
 featured-image: objects/zarrow-banner-blue.png
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 12em # 12em originally # the margin from the top your title portion will appear.
+home-title-y-padding: 8em # 12em originally # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is top
 
@@ -84,7 +84,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#17a2b8"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
+base-font-family: Helvetica # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
