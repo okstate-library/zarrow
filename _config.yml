@@ -31,8 +31,8 @@ author: Oklahoma State University Lirary
 # Organization branding #if we choose to activate these, uncomment below AND uncomment lines in collection-banner.html in the include file
 #organization-name:
 #organization-link: 
-#organization-logo-banner: 
-#organization-logo-nav: 
+organization-logo-banner: objects/dc-logo.png
+organization-logo-nav: objects/dc-logo.png
 
 ##########
 # COLLECTION SETTINGS
