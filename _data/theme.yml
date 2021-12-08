@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: objects/zarrow-banner-blue.png
+featured-image: objects/IMG_4682-2.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 8em # 12em originally # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom

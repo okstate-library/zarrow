@@ -1,6 +1,6 @@
 ---
 title: About
-layout: about
+layout: page
 permalink: /about.html
 # include CollectionBuilder info at bottom
 credits: true
@@ -8,26 +8,25 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="objects/zarrow-banner-blue.png" %} 
+<!--{% include feature/jumbotron.html objectid="objects/zarrow-banner-blue.png" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %} <-->
 
-## About CollectionBuilder CSV
+<img src="objects/zarrow-web-banner-2.png"
+     alt="zarrow"
+     style="float: left; margin-right: 10px; padding-bottom:20px;" />  
+<br>  <br>
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+## About the Collection
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The OSU Library and OSU Museum of Art share the recent gift of the Maxine and Jack Zarrow Collection. This special selection of works will provide dynamic opportunities for OSU by advancing research resources, new exhibitions and interdisciplinary learning experiences.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+This web portal features art from the couple’s work as collectors, and provides a unique insight into the methodology behind amassing such a collection.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Jack Zarrow was a native Tulsan; Maxine Foreman, originally from Texas, moved to Tulsa after her marriage to Jack in 1947. Both are graduates of the University of Texas at Austin.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+After receiving his degree in petroleum engineering, Jack joined his father and brother at Sooner Pipe & Supply Corporation. During his business career, he served as Sooner’s executive vice president and president of all other Zarrow family enterprises.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+Both Jack and Maxine served on a number of boards to support their community. Together the couple founded the Maxine & Jack Zarrow Family Foundation, which supports people with mental illness, physical or medical challenges and the homeless. The foundation is committed to transformational civic projects, especially efforts that seek to better engage those with limited access to our inspirational arts and cultural resources. Maxine and Jack built the Foundation to perpetuate this meaningful work and continue the important Jewish tradition of tzedakah, or righteous behavior, for their children, grandchildren and future generations.
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Jack passed away in 2012. Maxine resides in Tulsa.

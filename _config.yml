@@ -23,11 +23,14 @@ title: The Maxine & Jack Zarrow Collection
 tagline: Digital Collections @ Oklahoma State University Library
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Edmon Low Library at Oklahoma State University is home to the Maxine and Jack Zarrow Collection. The Maxine and Jack Zarrow Collection includes over 500 artworks from around the globe. Art collectors, students, and scholars utilize this public online resource to explore artists, their backgrounds, their careers, and their creations. Links to additional resources are provided for more details."
+description: "The Maxine and Jack Zarrow Collection includes over 500 works of art from around the globe. The collection is comprised primarily of paintings, mixed media works, and sculptures by Native American artists including Fred Beaver, Harrison Begay, Woody Crumbo, Brummett Echohawk, Gina Gray, Benjamin Harjo Jr., Allan Houser, Mopope, Bill Rabbit, Ben Adair Shoemaker, Kugee Supernaw, Jerome Tiger, Dick West, and Charles Banks Wilson.
+
+This website provides a unique look into the Zarrow family’s collection, based on metadata carefully curated through the years."
+
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: oklahoma;history;native america
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Oklahoma State University Lirary
+author: Oklahoma State University Library
 # Organization branding #if we choose to activate these, uncomment below AND uncomment lines in collection-banner.html in the include file
 #organization-name:
 #organization-link: 
