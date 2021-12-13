@@ -6,3 +6,5 @@ description,true,true
 subject,true,true
 location,true,false
 objectid,true,true
+provenance, true, true
+media, true, true
