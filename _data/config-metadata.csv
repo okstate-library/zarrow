@@ -15,3 +15,8 @@ rightsstatement,,,DCTERMS.rights,license
 size, Size,, DCTERMS.size
 frame, Frame,, DCTERMS.frame
 media, Media,, DCTERMS.media
+relation, Relation,, DCTerms.relation
+signature, Signature,, DCTerms.signature
+condition, Condition,, DCTerms.condition
+scopeandcontents, Scope and Contents,, DCTerms.scopeandcontents
+provenance, Provenance,, DcTerms.provenance
