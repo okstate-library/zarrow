@@ -11,10 +11,16 @@ credits: true
 <!--{% include feature/jumbotron.html objectid="objects/zarrow-banner-blue.png" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %} <-->
-
+<style>
+img {
+     max-width: 100%;
+     height: auto;
+}
+</style>
+<div class=img>
 <img src="objects/zarrow-web-banner-2.png"
      alt="zarrow"
-     style="float: left; margin-right: 10px; padding-bottom:20px;" />  
+     style="float: left; margin-right: 10px; padding-bottom:20px;" />  </div>
 <br>  <br>
 
 ## About the Collection
