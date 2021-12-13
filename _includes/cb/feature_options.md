@@ -165,9 +165,9 @@ Example Code --> `{% raw %}{% include feature/cloud.html fields="subject" min="1
 
 #### TimelineJS
 
-{% include feature/timelinejs.html  %}
+<!--{% include feature/timelinejs.html  %}
 
-Example Code --> `{% raw %}{% include feature/timelinejs.html  %}{% endraw %}`
+Example Code `{% raw %}{% include feature/timelinejs.html  %}{% endraw %}` <-->
 
 
 ### Include [Bootstrap](https://getbootstrap.com/) Features

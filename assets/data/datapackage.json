@@ -118,14 +118,14 @@
             "profile": "data-resource"
         },{% endif %}
         {% if stubs contains "timeline" %}
-        {
+       /* {
             "name": "timeline-json",
             "path": "timelinejs.json",
             "title": "{{ site.title | escape }} timeline metadata",
             "description": "Time-based metadata formatted for TimelineJS or other applications.",
             "format":"json",
             "profile": "data-resource"
-        },{% endif %}
+        },{% endif %} */
         {
             "name": "metadata-csv",
             "path": "metadata.csv",
