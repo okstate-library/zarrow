@@ -31,9 +31,9 @@ keywords: oklahoma;history;native america
 author: Oklahoma State University Library
 # Organization branding #if we choose to activate these, uncomment below AND uncomment lines in collection-banner.html in the include file
 organization-name: Oklahoma State University Archives
-organization-link: https://archives.library.okstate.edu/
+organization-link: https://library.okstate.edu/search-and-find/collections/digital-collections/
 organization-logo-banner: https://library.okstate.edu/vendor/okstate_digital_collections.png
-organization-logo-nav: https://library.okstate.edu/search-and-find/collections/digital-collections/
+organization-logo-nav: https://library.okstate.edu/vendor/okstate_digital_collections.png
 
 ##########
 # COLLECTION SETTINGS
