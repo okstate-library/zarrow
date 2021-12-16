@@ -12,7 +12,7 @@ url: https://zarrow.library.okstate.edu/_site
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /_site
 # location of code, the full url to your github repository
-source-code: #https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
 ##########
 # SITE SETTINGS
@@ -30,10 +30,10 @@ keywords: oklahoma;history;native america
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Oklahoma State University Library
 # Organization branding #if we choose to activate these, uncomment below AND uncomment lines in collection-banner.html in the include file
-organization-name: Oklahoma State University Archives
-organization-link: https://archives.library.okstate.edu/
+organization-name: "Oklahoma State University Archives"
+organization-link: https://library.okstate.edu/search-and-find/collections/digital-collections/
 organization-logo-banner: https://library.okstate.edu/vendor/okstate_digital_collections.png
-organization-logo-nav: https://library.okstate.edu/search-and-find/collections/digital-collections/
+organization-logo-nav: https://library.okstate.edu/vendor/okstate_digital_collections.png
 
 ##########
 # COLLECTION SETTINGS
