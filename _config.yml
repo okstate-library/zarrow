@@ -30,10 +30,10 @@ keywords: oklahoma;history;native america
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Oklahoma State University Library
 # Organization branding #if we choose to activate these, uncomment below AND uncomment lines in collection-banner.html in the include file
-#organization-name:
-#organization-link: 
-organization-logo-banner: objects/dc-logo-trans.png
-#organization-logo-nav: objects/dc-logo-trans.png
+organization-name: Oklahoma State University Archives
+organization-link: https://archives.library.okstate.edu/
+organization-logo-banner: https://library.okstate.edu/vendor/okstate_digital_collections.png
+organization-logo-nav: https://library.okstate.edu/search-and-find/collections/digital-collections/
 
 ##########
 # COLLECTION SETTINGS
