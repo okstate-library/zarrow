@@ -35,4 +35,4 @@ After receiving his degree in petroleum engineering, Jack joined his father and 
 
 Both Jack and Maxine served on a number of boards to support their community. Together the couple founded the Maxine & Jack Zarrow Family Foundation, which supports people with mental illness, physical or medical challenges and the homeless. The foundation is committed to transformational civic projects, especially efforts that seek to better engage those with limited access to our inspirational arts and cultural resources. Maxine and Jack built the foundation to perpetuate this meaningful work and continue the important Jewish tradition of tzedakah, or righteous behavior, for their children, grandchildren and future generations.
 
-Jack passed away in 2012. Maxine resides in Tulsa.
+Jack passed away in 2012. Maxine passed away in June 2021.
