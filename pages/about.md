@@ -35,4 +35,11 @@ After receiving his degree in petroleum engineering, Jack joined his father and 
 
 Both Jack and Maxine served on a number of boards to support their community. Together the couple founded the Maxine & Jack Zarrow Family Foundation, which supports people with mental illness, physical or medical challenges and the homeless. The foundation is committed to transformational civic projects, especially efforts that seek to better engage those with limited access to our inspirational arts and cultural resources. Maxine and Jack built the foundation to perpetuate this meaningful work and continue the important Jewish tradition of tzedakah, or righteous behavior, for their children, grandchildren and future generations.
 
-Jack passed away in 2012. Maxine resides in Tulsa.
+Jack passed away in 2012. Maxine passed away in June 2021.
+<br>
+
+## Notes on the Catalog and Portal
+
+The extensive inventory of the Zarrows' art collection was initially created by Ginger E. Kingman of Native American Arts Research in Tulsa, OK, and it was provided to the OSU Library by Gail Richards (the Zarrows' daughter) and Holbrook Lawson (an art advisor and dealer who had worked with the Zarrows). Further work on the catalog descriptions was done at the OSU Library by Janna Rogers (graduate research assistant, supervised by David Peters) and Madison Chartier (assistant professor). The portal was designed and implemented by the Digital Resources and Discovery Services team of Juliana Nykolaiszyn (professor and department head), Megan Macken (assistant professor and assistant department head), Brandon Katzir (assistant professor), and Nikhil Motwani (systems administrator).
+
+The entire catalog is represented here so that viewers can have a comprehensive view of the Zarrows' collecting activity, but please note that not all of the art pieces displayed here are in OSU holdings. The thumbnail images are intentionally low resolution to discourage unauthorized reproductions being made of the paintings.
