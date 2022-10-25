@@ -1,5 +1,5 @@
 field,display_name,browse_link,dc_map,schema_map
-creator,Artist,,DCTERMS.creator,Artist
+artist,Artist,,DCTERMS.creator,Artist
 title,Title,,DCTERMS.title,headline
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
